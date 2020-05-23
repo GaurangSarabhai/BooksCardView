@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SHIPMATE</string>
+    <string name="Book_title">Book Title</string>
+    <string name="Book_Image">Book Image</string>
+    <string name="Read">Read</string>
+</resources>
